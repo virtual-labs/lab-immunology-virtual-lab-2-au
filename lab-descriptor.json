@@ -1,1 +1,97 @@
-
+{
+  "broadArea": {
+    "name": "Biotechnology and Biomedical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+  },
+  "lab": "Immunology Virtual Lab II",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "AMRT",
+  "baseUrl": "ivl2-au.vlabs.ac.in",
+  "introduction": "The branch of biomedicine concerned with the structure and function of the immune system, innate and acquired immunity, the bodily distinction of self from no self, and laboratory techniques involving the interaction of antigens with specific antibodies.",
+  "experiments": [
+      {
+        "name": "Ouchterlony Double Diffusion -Titration",
+        "short-name": "ouchterlony-double-diffusion-titration",
+        "repo": "https://github.com/virtual-labs/exp-ouchterlony-double-diffusion-titration-au",
+        "tag": "v1.0.0",
+        "deploy": true
+     },
+     {
+      "name": "Ouchterlony Double Diffusion - Patterns",
+      "short-name": "ouchterlony-double-diffusion-patterns",
+      "repo": "https://github.com/virtual-labs/exp-ouchterlony-double-diffusion-patterns-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Purification of IgG Antibodies with Ammonium Sulphate",
+      "short-name": "ammonium-sulphate",
+      "repo": "https://github.com/virtual-labs/exp-ammonium-sulphate-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Removal of Thymus and Spleen from Mice",
+      "short-name": "spleen-from-mice",
+      "repo": "https://github.com/virtual-labs/exp-spleen-from-mice-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Mouse Anesthesia and Blood Collection",
+      "short-name": "mouse-anesthesia",
+      "repo": "https://github.com/virtual-labs/exp-mouse-anesthesia-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Parenteral Injections",
+      "short-name": "parenteral-injections",
+      "repo": "https://github.com/virtual-labs/exp-parenteral-injections-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Purification of IgG Antibodies using Affinity Chromatography",
+      "short-name": "affinity-chromatography",
+      "repo": "https://github.com/virtual-labs/exp-affinity-chromatography-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Fluorescent Labeling of Antibodies",
+      "short-name": "fluorescent-labeling-of-antibodies",
+      "repo": "https://github.com/virtual-labs/exp-fluorescent-labeling-of-antibodies-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Fragmentation of IgG Using Papain",
+      "short-name": "igg-using-papain",
+      "repo": "https://github.com/virtual-labs/exp-igg-using-papain-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+     {
+      "name": "Fragmentation of IgG using pepsin",
+      "short-name": "igg-using-pepsin",
+      "repo": "https://github.com/virtual-labs/exp-igg-using-pepsin-au",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+      ],
+    "targetAudience": {
+    "UG": ["B.Tech./ B.E in Biotechnology"],
+    "PG": ["PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"]
+    },
+  "objective": "1. To introduce the principle of precipitation reactions and differentiate it from agglutination reactions</br></br>2. To demonstrate the purification protocols of antibodies for use in research and diagnostics</br></br>3. To understand the concepts of mouse Euthanasia. To learn the basic procedures involved in rodent dissection and how to identify and remove lymphoid organs.</br></br>4. To understand the basic principles in fragmentation of IgG to a monovalent Fab fragment using Papain digestion. The cleavage of antibodies using the Proteolytic enzyme is first studied by porter in 1959. IgG is cleaved by Papain to give Fab fragments</br></br>5. To understand the principles of IgG fragmentation to a divalent F(ab')2 fragment.
+",
+  "courseAlignment": {
+      "description": "The syllabi of this lab aligns to the following disciplines.",
+      "universities": [
+            "UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
+            "PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
+          ]
+  }
+}
