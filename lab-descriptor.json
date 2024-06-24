@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+    "code": "BIO"
   },
   "lab": "Immunology Virtual Lab II",
+  "lab_display_name": "Immunology Virtual Lab II",
   "deployLab": true,
   "phase": 2,
   "collegeName": "AMRT",
@@ -92,8 +94,5 @@
       "UG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science",
       "PG in Biotechnology/Microbiology/Bioinformatics/Biomedical Science"
     ]
-  },
-  "exp_name": "Fragmentation of IgG using pepsin",
-  "exp_short_name": "igg-using-pepsin",
-  "version": "v0.6.0"
+  }
 }
